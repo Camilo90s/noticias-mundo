@@ -1,0 +1,27 @@
+{
+  "tituloSitio": "Monitor de noticias",
+  "subtitulo": "Israel y el mundo, desde fuentes reconocidas",
+  "zonaHoraria": "America/Bogota",
+  "nombreZonaHoraria": "Bogotá",
+  "urlSitio": "",
+  "horaAvisoDiario": 6,
+  "ignorarNoticiasConMasDeHoras": 36,
+  "diasARegenerar": 3,
+  "secciones": [
+    {
+      "id": "israel",
+      "nombre": "Israel y Palestina",
+      "palabrasClave": {
+        "empiezaCon": [
+          "israel", "gaza", "gazati", "jerusal", "tel aviv", "haifa", "eilat", "negev", "neguev",
+          "netanyahu", "knesset", "kneset", "mossad",
+          "palestin", "cisjordania", "west bank", "rafah", "khan younis", "jan yunis", "unrwa",
+          "hamas", "hezbol", "hizbol", "hizbul", "golan"
+        ],
+        "exactas": ["idf", "tsahal"]
+      }
+    },
+    { "id": "medio-oriente", "nombre": "Medio Oriente" },
+    { "id": "mundo", "nombre": "Mundo" }
+  ]
+}

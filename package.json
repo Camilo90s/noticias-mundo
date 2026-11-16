@@ -1,0 +1,20 @@
+{
+  "name": "monitor-noticias",
+  "version": "1.0.0",
+  "description": "Revisa feeds RSS de medios reconocidos, filtra noticias de Israel y del mundo, y genera reportes diarios con enlaces directos.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "recolectar": "node src/recolectar.js",
+    "reporte": "node src/reporte.js",
+    "reporte:todo": "node src/reporte.js --todo",
+    "notificar": "node src/notificar.js",
+    "todo": "node src/recolectar.js && node src/reporte.js && node src/notificar.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

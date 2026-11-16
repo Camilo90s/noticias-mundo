@@ -1,0 +1,182 @@
+[
+  {
+    "id": "times-of-israel",
+    "nombre": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/feed/",
+    "sitio": "https://www.timesofisrael.com",
+    "idioma": "en",
+    "pais": "Israel",
+    "tipo": "Diario digital israelí",
+    "seccion": "israel"
+  },
+  {
+    "id": "jpost",
+    "nombre": "The Jerusalem Post",
+    "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
+    "sitio": "https://www.jpost.com",
+    "idioma": "en",
+    "pais": "Israel",
+    "tipo": "Diario israelí",
+    "seccion": "israel"
+  },
+  {
+    "id": "haaretz",
+    "nombre": "Haaretz",
+    "url": "https://www.haaretz.com/cmlink/1.4605102",
+    "sitio": "https://www.haaretz.com",
+    "idioma": "en",
+    "pais": "Israel",
+    "tipo": "Diario israelí",
+    "seccion": "israel"
+  },
+  {
+    "id": "ynetnews",
+    "nombre": "Ynetnews",
+    "url": "https://www.ynet.co.il/3rdparty/mobile/rss/ynetnews/3089/",
+    "sitio": "https://www.ynetnews.com",
+    "idioma": "en",
+    "pais": "Israel",
+    "tipo": "Edición en inglés de Ynet (Yedioth Ahronoth)",
+    "seccion": "israel"
+  },
+  {
+    "id": "israel-hayom",
+    "nombre": "Israel Hayom",
+    "url": "https://www.israelhayom.com/feed/",
+    "sitio": "https://www.israelhayom.com",
+    "idioma": "en",
+    "pais": "Israel",
+    "tipo": "Diario israelí",
+    "seccion": "israel"
+  },
+  {
+    "id": "guardian-israel",
+    "nombre": "The Guardian · Israel",
+    "url": "https://www.theguardian.com/world/israel/rss",
+    "sitio": "https://www.theguardian.com/world/israel",
+    "idioma": "en",
+    "pais": "Reino Unido",
+    "tipo": "Diario británico",
+    "seccion": "israel"
+  },
+  {
+    "id": "bbc-medio-oriente",
+    "nombre": "BBC News · Medio Oriente",
+    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    "sitio": "https://www.bbc.com/news/world/middle_east",
+    "idioma": "en",
+    "pais": "Reino Unido",
+    "tipo": "Radiodifusora pública británica",
+    "seccion": "medio-oriente"
+  },
+  {
+    "id": "nyt-medio-oriente",
+    "nombre": "The New York Times · Medio Oriente",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+    "sitio": "https://www.nytimes.com/section/world/middleeast",
+    "idioma": "en",
+    "pais": "Estados Unidos",
+    "tipo": "Diario estadounidense",
+    "seccion": "medio-oriente"
+  },
+  {
+    "id": "france24-medio-oriente",
+    "nombre": "France 24 · Medio Oriente",
+    "url": "https://www.france24.com/en/middle-east/rss",
+    "sitio": "https://www.france24.com/en/middle-east/",
+    "idioma": "en",
+    "pais": "Francia",
+    "tipo": "Cadena pública internacional francesa",
+    "seccion": "medio-oriente"
+  },
+  {
+    "id": "onu-medio-oriente",
+    "nombre": "Noticias ONU · Medio Oriente",
+    "url": "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml",
+    "sitio": "https://news.un.org/en/news/region/middle-east",
+    "idioma": "en",
+    "pais": "Internacional",
+    "tipo": "Servicio de noticias de Naciones Unidas",
+    "seccion": "medio-oriente"
+  },
+  {
+    "id": "al-jazeera",
+    "nombre": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "sitio": "https://www.aljazeera.com",
+    "idioma": "en",
+    "pais": "Catar",
+    "tipo": "Cadena internacional con sede en Doha",
+    "seccion": "mundo"
+  },
+  {
+    "id": "bbc-world",
+    "nombre": "BBC News · World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "sitio": "https://www.bbc.com/news/world",
+    "idioma": "en",
+    "pais": "Reino Unido",
+    "tipo": "Radiodifusora pública británica",
+    "seccion": "mundo"
+  },
+  {
+    "id": "guardian-world",
+    "nombre": "The Guardian · World",
+    "url": "https://www.theguardian.com/world/rss",
+    "sitio": "https://www.theguardian.com/world",
+    "idioma": "en",
+    "pais": "Reino Unido",
+    "tipo": "Diario británico",
+    "seccion": "mundo"
+  },
+  {
+    "id": "dw-en",
+    "nombre": "DW News",
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "sitio": "https://www.dw.com/en",
+    "idioma": "en",
+    "pais": "Alemania",
+    "tipo": "Radiodifusora pública internacional alemana",
+    "seccion": "mundo"
+  },
+  {
+    "id": "bbc-mundo",
+    "nombre": "BBC Mundo",
+    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "sitio": "https://www.bbc.com/mundo",
+    "idioma": "es",
+    "pais": "Reino Unido",
+    "tipo": "Servicio en español de la BBC",
+    "seccion": "mundo"
+  },
+  {
+    "id": "dw-es",
+    "nombre": "DW Español",
+    "url": "https://rss.dw.com/rdf/rss-sp-all",
+    "sitio": "https://www.dw.com/es",
+    "idioma": "es",
+    "pais": "Alemania",
+    "tipo": "Servicio en español de Deutsche Welle",
+    "seccion": "mundo"
+  },
+  {
+    "id": "france24-es",
+    "nombre": "France 24 Español",
+    "url": "https://www.france24.com/es/rss",
+    "sitio": "https://www.france24.com/es/",
+    "idioma": "es",
+    "pais": "Francia",
+    "tipo": "Servicio en español de France 24",
+    "seccion": "mundo"
+  },
+  {
+    "id": "el-pais",
+    "nombre": "El País · Internacional",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+    "sitio": "https://elpais.com/internacional/",
+    "idioma": "es",
+    "pais": "España",
+    "tipo": "Diario español",
+    "seccion": "mundo"
+  }
+]

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archivo · Monitor de noticias</title>
+<meta name="description" content="Archivo de reportes diarios de noticias.">
+<meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b1120" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20rx%3D%227%22%20fill%3D%22%231e3a8a%22%2F%3E%3Cpath%20d%3D%22M9%2023h14M9%2018h14M9%209h6v5H9z%22%20stroke%3D%22%23fff%22%20stroke-width%3D%222.4%22%20stroke-linecap%3D%22round%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+<header class="barra">
+  <div class="contenedor barra-interior">
+    <a class="marca" href="index.html">
+      <span class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg></span>
+      <span><strong>Monitor de noticias</strong><small>Israel y el mundo, desde fuentes reconocidas</small></span>
+    </a>
+    <a class="btn btn-fantasma" href="archivo.html" aria-label="Archivo de reportes"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg><span class="solo-escritorio">Archivo</span></a>
+  </div>
+</header>
+<main id="contenido" class="contenedor">
+
+  <section class="encabezado">
+    <div>
+      <div class="fila-badges"><span class="badge badge-contorno">Archivo</span></div>
+      <h1 class="serif">Todos los reportes</h1>
+      <p>0 días registrados · también disponibles en Markdown en la carpeta <code>reportes/</code> del repositorio</p>
+    </div>
+  </section>
+  <div class="archivo"><div class="card vacio"><strong>Aún no hay reportes</strong>Se crearán después de la primera revisión.</div></div>
+</main>
+<footer class="pie">
+  <div class="contenedor">
+    <p>Generado automáticamente con GitHub Actions a partir de los feeds RSS públicos de cada medio.</p>
+    <p>Los titulares, resúmenes y enlaces pertenecen a sus autores. Contrasta siempre varias fuentes.</p>
+  </div>
+</footer>
+<script src="app.js" defer></script>
+</body>
+</html>

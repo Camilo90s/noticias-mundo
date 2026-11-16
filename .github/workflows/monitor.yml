@@ -1,0 +1,63 @@
+name: Monitor de noticias
+
+on:
+  schedule:
+    # Cada 2 horas (hora UTC). El minuto 17 evita la congestión de las horas en punto.
+    - cron: "17 */2 * * *"
+  # Botón "Run workflow" en la pestaña Actions para ejecutarlo a mano.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Nunca corren dos revisiones al mismo tiempo.
+concurrency:
+  group: monitor-noticias
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v5
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Revisar las fuentes
+        run: npm run recolectar
+
+      - name: Generar reportes y página
+        run: npm run reporte
+
+      - name: Aviso diario por Telegram (opcional)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm run notificar
+
+      # Los commits van firmados con tu usuario de GitHub (correo "noreply"):
+      # el plan gratuito de Vercel solo despliega commits del dueño de la cuenta.
+      - name: Guardar resultados en el repositorio
+        env:
+          AUTOR_NOMBRE: Camilo90s
+          AUTOR_EMAIL: 163852035+Camilo90s@users.noreply.github.com
+        run: |
+          git config user.name "$AUTOR_NOMBRE"
+          git config user.email "$AUTOR_EMAIL"
+          git add data reportes docs
+          if git diff --staged --quiet; then
+            echo "Sin cambios que guardar."
+            exit 0
+          fi
+          git commit -m "Noticias $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash
+          git push
