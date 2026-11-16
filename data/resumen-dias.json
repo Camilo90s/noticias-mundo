@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "dia": "2026-11-14",
+    "total": 33,
+    "porSeccion": {
+      "mundo": 21,
+      "israel": 12
+    }
+  },
+  {
+    "dia": "2026-11-15",
+    "total": 263,
+    "porSeccion": {
+      "israel": 134,
+      "mundo": 118,
+      "medio-oriente": 11
+    }
+  },
+  {
+    "dia": "2026-11-16",
+    "total": 9,
+    "porSeccion": {
+      "israel": 1,
+      "mundo": 8
+    }
+  }
+]
