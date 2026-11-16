@@ -3,7 +3,7 @@
   "subtitulo": "Israel y el mundo, desde fuentes reconocidas",
   "zonaHoraria": "America/Bogota",
   "nombreZonaHoraria": "Bogotá",
-  "urlSitio": "",
+  "urlSitio": "https://noticias-mundo-ten.vercel.app/",
   "horaAvisoDiario": 6,
   "ignorarNoticiasConMasDeHoras": 36,
   "diasARegenerar": 3,

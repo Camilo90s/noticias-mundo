@@ -1,5 +1,7 @@
 # Monitor de noticias · Israel y el mundo
 
+**Sitio:** https://noticias-mundo-ten.vercel.app
+
 Revisa automáticamente, cada 2 horas y todos los días, los feeds RSS oficiales de medios reconocidos. Clasifica las noticias (con prioridad para Israel y Palestina), guarda **enlaces directos** a cada artículo y genera un **reporte diario** en dos formatos:
 
 - **Página web** (publicada en Vercel) con pestañas por sección, buscador y filtros por fuente e idioma. Estilo shadcn/ui, con modo claro y oscuro.
