@@ -288,6 +288,18 @@
     "detectado": "2026-11-17T08:03:26.079Z"
   },
   {
+    "id": "b7f7a8ca49fa",
+    "titulo": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+    "enlace": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo",
+    "resumen": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-17T02:38:08.000Z",
+    "detectado": "2026-11-17T17:38:37.810Z"
+  },
+  {
     "id": "fcb49757685d",
     "titulo": "Impuestos, vivienda, salario mínimo... los candidatos presidenciales de Francia debaten sus propuestas",
     "enlace": "https://www.france24.com/es/francia/20261117-impuestos-vivienda-salario-m%C3%ADnimo-los-candidatos-presidenciales-de-francia-debaten-sus-propuestas",
@@ -4224,6 +4236,18 @@
     "detectado": "2026-11-16T15:49:37.040Z"
   },
   {
+    "id": "5fb97846565b",
+    "titulo": "Early Zionists were 'Confused, argued and changed their minds'",
+    "enlace": "https://www.haaretz.com/life/books/2026-11-16/ty-article-magazine/.premium/early-zionists-were-confused-argued-and-changed-their-minds/000001a1-e397-d365-a3fd-fbf730bf0000",
+    "resumen": "Who gets to decide what Zionism truly means? A new book returns to a time when a Jewish state was far from inevitable, and competing visions of Jewish life offered alternatives that suddenly feel relevant again",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-16T10:57:17.000Z",
+    "detectado": "2026-11-17T17:38:37.810Z"
+  },
+  {
     "id": "d8c033594363",
     "titulo": "South Africa: 17 killed in separate mass shooting incidents",
     "enlace": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966",
@@ -4560,6 +4584,30 @@
     "detectado": "2026-11-16T15:49:37.040Z"
   },
   {
+    "id": "1ee79115f5ad",
+    "titulo": "De la sierra norte de Puebla a una bodega de Sinaloa, las granjas de criptomonedas se expanden a manos del narco",
+    "enlace": "https://elpais.com/mexico/economia/2026-11-16/de-la-sierra-norte-de-puebla-a-una-bodega-de-sinaloa-las-granjas-de-criptomonedas-se-expanden-a-manos-del-narco.html",
+    "resumen": "El hallazgo de una instalación que supuestamente minaba activos digitales para el Cartel Jalisco Nueva Generación se suma a un puñado de casos en varios Estados",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-16T09:30:00.000Z",
+    "detectado": "2026-11-17T17:38:37.810Z"
+  },
+  {
+    "id": "a7019aedd3db",
+    "titulo": "Un Congreso controlado por los demócratas encara la tarea de reformar la agenda migratoria de Trump",
+    "enlace": "https://elpais.com/us/2026-11-16/un-congreso-controlado-por-los-democratas-encara-la-tarea-de-reformar-la-agenda-migratoria-de-trump.html",
+    "resumen": "La elección de Stephen Miller como jefe de Gabinete de la Casa Blanca ensombrece las expectativas de llegar a acuerdos con los republicanos y de superar el veto del presidente",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-16T09:30:00.000Z",
+    "detectado": "2026-11-17T17:38:37.810Z"
+  },
+  {
     "id": "474e7a4e123c",
     "titulo": "Delaware hit by rare November tornado",
     "enlace": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
@@ -4810,6 +4858,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-16T07:46:00.000Z",
     "detectado": "2026-11-16T15:49:37.040Z"
+  },
+  {
+    "id": "c47fb742cb2b",
+    "titulo": "AI in classrooms: Fighting the great 'dumbing down'",
+    "enlace": "https://www.dw.com/en/ai-in-classrooms-fighting-the-great-dumbing-down/a-79949229",
+    "resumen": "Research suggests that students who aren't careful about how they use ChatGPT and other AI tools risk poorer academic outcomes. It's a huge challenge for teachers.",
+    "fuente": "dw-en",
+    "fuenteNombre": "DW News",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-16T07:46:00.000Z",
+    "detectado": "2026-11-17T17:38:37.810Z"
   },
   {
     "id": "fc32c1d921ac",
