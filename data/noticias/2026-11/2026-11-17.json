@@ -312,6 +312,18 @@
     "detectado": "2026-11-18T10:12:16.160Z"
   },
   {
+    "id": "c2382ee8e58f",
+    "titulo": "Waymo pulls driverless taxis from all US freeways",
+    "enlace": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+    "resumen": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-18T03:07:22.000Z",
+    "detectado": "2026-11-18T18:52:46.569Z"
+  },
+  {
     "id": "f3e5bacac2cf",
     "titulo": "Slovakia: Thousands protest against pro-Kremlin leader Robert Fico",
     "enlace": "https://www.dw.com/en/slovakia-thousands-protest-against-pro-kremlin-leader-robert-fico/a-79976078",
@@ -432,6 +444,18 @@
     "detectado": "2026-11-18T10:12:16.160Z"
   },
   {
+    "id": "78da90bf0cdd",
+    "titulo": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "enlace": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o",
+    "resumen": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-18T02:29:52.000Z",
+    "detectado": "2026-11-18T18:52:46.569Z"
+  },
+  {
     "id": "fabfce25f1a9",
     "titulo": "Cisjordania: mujer palestina de 72 años muere en ataque de colonos israelíes",
     "enlace": "https://www.france24.com/es/video/20261118-cisjordania-mujer-palestina-de-72-a%C3%B1os-muere-en-ataque-de-colonos-israel%C3%ADes",
@@ -502,6 +526,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-18T02:03:27.000Z",
     "detectado": "2026-11-18T10:12:16.160Z"
+  },
+  {
+    "id": "e610354fc725",
+    "titulo": "Irishman charged with destroying US military aircraft with axe",
+    "enlace": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo",
+    "resumen": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-18T02:00:37.000Z",
+    "detectado": "2026-11-18T18:52:46.569Z"
   },
   {
     "id": "498b3650453c",
@@ -924,6 +960,18 @@
     "detectado": "2026-11-18T00:58:17.812Z"
   },
   {
+    "id": "26302237e108",
+    "titulo": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+    "enlace": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
+    "resumen": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-17T23:34:56.000Z",
+    "detectado": "2026-11-18T18:52:46.569Z"
+  },
+  {
     "id": "ebaaa770a29f",
     "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
     "enlace": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
@@ -1018,6 +1066,18 @@
     "seccion": "israel",
     "publicado": "2026-11-17T23:23:25.000Z",
     "detectado": "2026-11-18T00:58:17.812Z"
+  },
+  {
+    "id": "a245f6095e4b",
+    "titulo": "In his new memoir, Joe Biden has empathy only for Israelis",
+    "enlace": "https://www.haaretz.com/us-news/2026-11-18/ty-article-review/.premium/in-his-new-memoir-joe-biden-only-has-empathy-for-israelis/000001a1-ebc5-d6a1-aba5-efc5b8330000",
+    "resumen": "The former U.S. president recalls a freed Israeli hostage smiling on a White House swing and a bereaved mother sobbing on a call. Biden's account of the Gaza war, however, offers no such portrait of a single Palestinian",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-17T23:23:25.000Z",
+    "detectado": "2026-11-18T18:52:46.569Z"
   },
   {
     "id": "3d50af845e4e",
