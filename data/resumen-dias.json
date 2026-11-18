@@ -27,11 +27,19 @@
   },
   {
     "dia": "2026-11-17",
-    "total": 414,
+    "total": 464,
     "porSeccion": {
-      "israel": 180,
-      "mundo": 230,
-      "medio-oriente": 4
+      "mundo": 259,
+      "israel": 200,
+      "medio-oriente": 5
+    }
+  },
+  {
+    "dia": "2026-11-18",
+    "total": 82,
+    "porSeccion": {
+      "israel": 33,
+      "mundo": 49
     }
   }
 ]
