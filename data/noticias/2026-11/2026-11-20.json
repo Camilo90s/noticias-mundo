@@ -1,5 +1,125 @@
 [
   {
+    "id": "d1fd00197749",
+    "titulo": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+    "enlace": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+    "resumen": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email, free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a…",
+    "fuente": "guardian-world",
+    "fuenteNombre": "The Guardian · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:44:00.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "789c78d99be5",
+    "titulo": "Man convicted of starting Palisades fire in Los Angeles",
+    "enlace": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+    "resumen": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:34:00.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "725e31b18964",
+    "titulo": "La batalla interna en Europa sobre las negociaciones con Putin salpica a Kaja Kallas",
+    "enlace": "https://elpais.com/internacional/2026-11-21/la-batalla-interna-en-europa-sobre-las-negociaciones-con-putin-salpica-a-kaja-kallas.html",
+    "resumen": "La UE ha designado a un equipo negociador para hablar con el Kremlin, pero se mantiene la división sobre las conversaciones y el papel europeo",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:30:01.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "86d51251b986",
+    "titulo": "Periodistas, activistas y abogados rusos intentan resistir a la persecución: “La represión no cesa, es cada vez más severa”",
+    "enlace": "https://elpais.com/internacional/2026-11-21/periodistas-activistas-y-abogados-rusos-intentan-resistir-a-la-persecucion-la-represion-no-cesa-es-cada-vez-mas-severa.html",
+    "resumen": "Profesionales y ONG intentan continuar su trabajo en la sombra para evitar la prisión y las sanciones del Gobierno de Putin. En las cárceles hay más de 2.300 presos políticos",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:30:01.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "51e569460ef2",
+    "titulo": "Los expertos vaticinan que los jueces tumbarán el pacto europeo para deportar migrantes a Ruanda",
+    "enlace": "https://elpais.com/internacional/2026-11-21/los-expertos-vaticinan-que-los-jueces-tumbaran-el-pacto-europeo-para-deportar-migrantes-a-ruanda.html",
+    "resumen": "Medio centenar de ONG instan a retirar el acuerdo de Alemania, Austria, Dinamarca, Países Bajos y Grecia con el país africano",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:30:01.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "9b0fda9089a5",
+    "titulo": "La ‘baguette’, termómetro del humor francés",
+    "enlace": "https://elpais.com/internacional/2026-11-21/la-baguette-termometro-del-humor-frances.html",
+    "resumen": "Los panaderos luchan por mantener el precio de la barra tradicional, síntoma del estado general de la economía, pese a la inflación, el aumento del coste de la vida y la diabolización del gluten",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:30:01.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "072538ed8faf",
+    "titulo": "Abubacarr Tambadou, el ministro gambiano que llevó a Myanmar ante el tribunal de La Haya por el genocidio rohinyá",
+    "enlace": "https://elpais.com/internacional/2026-11-21/abubacarr-tambadou-el-ministro-gambiano-que-llevo-a-myanmar-ante-el-tribunal-de-la-haya-por-el-genocidio-rohinya.html",
+    "resumen": "Gambia interpuso en 2019 la denuncia contra el país asiático al mismo tiempo que abría un proceso de reparación, aún inconcluso, a las víctimas de su propia dictadura",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:30:01.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "6cf002f6914a",
+    "titulo": "Saudi Arabia: We intercepted 3 missiles fired toward Riyadh",
+    "enlace": "https://www.ynetnews.com/article/b36pcospo",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-21T04:11:45.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "eb8419037cfa",
+    "titulo": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+    "enlace": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
+    "resumen": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and…",
+    "fuente": "guardian-world",
+    "fuenteNombre": "The Guardian · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T04:00:47.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "bb57ccefe24c",
+    "titulo": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+    "enlace": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+    "resumen": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day, publisher Rockstar Games has…",
+    "fuente": "guardian-world",
+    "fuenteNombre": "The Guardian · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T03:51:03.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
     "id": "ffa7f6e35b58",
     "titulo": "Jerusalem to Tel Aviv trains to increase to three per hour as Israel Railways expands service",
     "enlace": "https://www.jpost.com/israel-news/article-915618",
@@ -12,6 +132,18 @@
     "detectado": "2026-11-21T03:14:13.399Z"
   },
   {
+    "id": "743d739de0dc",
+    "titulo": "ONU prolonga complejas negociaciones sobre regulación de \"robots asesinos\" controlados por la Inteligencia Artificial.",
+    "enlace": "https://www.dw.com/es/onu-prolonga-complejas-negociaciones-sobre-regulaci%C3%B3n-de-robots-asesinos-controlados-por-la-inteligencia-artificial/a-80007658",
+    "resumen": "Cinco días de conversaciones que debían concluir este viernes, se extendieron mientras 128 países intentan alcanzar un consenso para iniciar negociaciones para regular el uso de armas letales autónomas.",
+    "fuente": "dw-es",
+    "fuenteNombre": "DW Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T03:28:00.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
     "id": "2cb8bbe6b8e1",
     "titulo": "Israel to introduce new speed cameras in 2027, monitoring drivers across 125 road sections",
     "enlace": "https://www.jpost.com/israel-news/article-915617",
@@ -22,6 +154,30 @@
     "seccion": "israel",
     "publicado": "2026-11-21T03:21:09.000Z",
     "detectado": "2026-11-21T03:14:13.399Z"
+  },
+  {
+    "id": "20f68f057ea9",
+    "titulo": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
+    "enlace": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648",
+    "resumen": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
+    "fuente": "dw-en",
+    "fuenteNombre": "DW News",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-21T03:16:00.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "8a7434bc154a",
+    "titulo": "US report: Hackers breached Agriculture Department system",
+    "enlace": "https://www.ynetnews.com/article/amjpao3mh",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-21T03:03:06.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
   },
   {
     "id": "46e507265cbb",
@@ -70,6 +226,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-21T02:17:15.000Z",
     "detectado": "2026-11-21T03:14:13.399Z"
+  },
+  {
+    "id": "b69bf4e1b41d",
+    "titulo": "Weather: Partly Cloudy, Relatively Warm for the Season",
+    "enlace": "https://www.ynetnews.com/article/bqsh47hqg",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-21T02:15:57.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
   },
   {
     "id": "f29cc5ec2e31",
@@ -780,6 +948,18 @@
     "detectado": "2026-11-21T03:14:13.399Z"
   },
   {
+    "id": "d6eb922168e2",
+    "titulo": "Comedian Bowen Yang apologizes for antisemitic slur against Regina Spektor",
+    "enlace": "https://www.haaretz.com/us-news/2026-11-20/ty-article/.premium/comedian-bowen-yang-apologizes-for-antisemitic-slur-against-regina-spektor/000001a1-faa4-d381-ade5-fbe57d580000",
+    "resumen": "Yang said he was unaware the term 'Zio', now common among pro-Palestinian activists, was popularized by former KKK leader David Duke. He then posted 'free Palestine'",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-20T21:18:46.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
     "id": "e02966d3f0b3",
     "titulo": "Araghchi: 'We still believe in diplomacy to end the war'",
     "enlace": "https://www.ynetnews.com/article/xqclr7u91",
@@ -1440,6 +1620,18 @@
     "detectado": "2026-11-20T21:50:41.862Z"
   },
   {
+    "id": "412a936f352a",
+    "titulo": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+    "enlace": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo",
+    "resumen": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-20T18:48:48.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
     "id": "83861976fd29",
     "titulo": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
     "enlace": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o",
@@ -1486,6 +1678,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-20T18:36:30.000Z",
     "detectado": "2026-11-20T21:50:41.862Z"
+  },
+  {
+    "id": "5527446ef966",
+    "titulo": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+    "enlace": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
+    "resumen": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
+    "fuente": "france24-medio-oriente",
+    "fuenteNombre": "France 24 · Medio Oriente",
+    "idioma": "en",
+    "seccion": "medio-oriente",
+    "publicado": "2026-11-20T18:36:15.000Z",
+    "detectado": "2026-11-21T12:41:12.510Z"
   },
   {
     "id": "df754fdf1c1b",
