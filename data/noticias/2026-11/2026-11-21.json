@@ -276,6 +276,18 @@
     "detectado": "2026-11-22T09:52:33.959Z"
   },
   {
+    "id": "7d2b8fc5e88e",
+    "titulo": "Más de 7.000 afectados por graves inundaciones en Galápagos asociadas a El Niño",
+    "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-m%C3%A1s-de-7-000-afectados-por-graves-inundaciones-en-gal%C3%A1pagos-asociadas-a-el-ni%C3%B1o",
+    "resumen": "Las lluvias torrenciales e inundaciones provocadas por El Niño dejan 7.425 damnificados y 1.040 viviendas afectadas en las islas Galápagos desde que Ecuador declaró la emergencia el 29 de agosto. Los pobladores del archipiélago intentan rescatar sus…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-22T01:44:21.000Z",
+    "detectado": "2026-11-22T17:51:17.578Z"
+  },
+  {
     "id": "2834e8e97d30",
     "titulo": "'Draconian, pure racism': Journalist Ilana Dayan addresses report of Netanyahu election conspiracy",
     "enlace": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915660",
@@ -2302,6 +2314,18 @@
     "seccion": "israel",
     "publicado": "2026-11-21T12:00:57.000Z",
     "detectado": "2026-11-21T12:41:12.510Z"
+  },
+  {
+    "id": "1c5277ba9144",
+    "titulo": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+    "enlace": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+    "resumen": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+    "fuente": "onu-medio-oriente",
+    "fuenteNombre": "Noticias ONU · Medio Oriente",
+    "idioma": "en",
+    "seccion": "medio-oriente",
+    "publicado": "2026-11-21T12:00:00.000Z",
+    "detectado": "2026-11-22T17:51:17.578Z"
   },
   {
     "id": "a64aa181b349",
