@@ -1,126 +1,126 @@
 {
   "times-of-israel": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
     "error": "HTTP 403",
     "fallandoDesde": "2026-11-16T05:59:28.930Z"
   },
   "jpost": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 30,
-    "nuevas": 7
+    "nuevas": 26
   },
   "haaretz": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 100,
-    "nuevas": 12
+    "nuevas": 16
   },
   "ynetnews": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 50,
-    "nuevas": 19
+    "nuevas": 44
   },
   "israel-hayom": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 10,
-    "nuevas": 0
+    "nuevas": 10
   },
   "guardian-israel": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 20,
-    "nuevas": 0
-  },
-  "bbc-medio-oriente": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
-    "error": null,
-    "recibidas": 27,
-    "nuevas": 0
-  },
-  "nyt-medio-oriente": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
-    "error": null,
-    "recibidas": 20,
-    "nuevas": 0
-  },
-  "france24-medio-oriente": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
-    "error": null,
-    "recibidas": 30,
-    "nuevas": 0
-  },
-  "onu-medio-oriente": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
-    "error": null,
-    "recibidas": 30,
     "nuevas": 1
   },
+  "bbc-medio-oriente": {
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
+    "error": null,
+    "recibidas": 26,
+    "nuevas": 2
+  },
+  "nyt-medio-oriente": {
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
+    "error": null,
+    "recibidas": 20,
+    "nuevas": 1
+  },
+  "france24-medio-oriente": {
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
+    "error": null,
+    "recibidas": 30,
+    "nuevas": 3
+  },
+  "onu-medio-oriente": {
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
+    "error": null,
+    "recibidas": 30,
+    "nuevas": 0
+  },
   "al-jazeera": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 25,
     "nuevas": 25
   },
   "bbc-world": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
-    "recibidas": 22,
-    "nuevas": 11
+    "recibidas": 28,
+    "nuevas": 10
   },
   "guardian-world": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 45,
-    "nuevas": 12
+    "nuevas": 27
   },
   "dw-en": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
-    "recibidas": 140,
-    "nuevas": 2
+    "recibidas": 143,
+    "nuevas": 22
   },
   "bbc-mundo": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 34,
-    "nuevas": 2
+    "nuevas": 9
   },
   "dw-es": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
-    "recibidas": 18,
-    "nuevas": 8
+    "recibidas": 22,
+    "nuevas": 13
   },
   "france24-es": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
     "recibidas": 24,
-    "nuevas": 23
+    "nuevas": 14
   },
   "el-pais": {
-    "ultimoIntento": "2026-11-24T04:50:23.903Z",
-    "ultimoExito": "2026-11-24T04:50:23.903Z",
+    "ultimoIntento": "2026-11-24T17:47:50.017Z",
+    "ultimoExito": "2026-11-24T17:47:50.017Z",
     "error": null,
-    "recibidas": 24,
-    "nuevas": 6
+    "recibidas": 23,
+    "nuevas": 7
   }
 }

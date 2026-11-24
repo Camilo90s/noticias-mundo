@@ -1,5 +1,17 @@
 [
   {
+    "id": "a866f6ec4550",
+    "titulo": "Report: Trump held Nvidia stock worth millions of dollars at the end of 2025",
+    "enlace": "https://www.ynetnews.com/article/s2xyxok57",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-24T04:51:37.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
+  },
+  {
     "id": "14692aebe38a",
     "titulo": "Defense Ministry treating 92,300 wounded veterans, up 31,500 since start of war",
     "enlace": "https://www.jpost.com/israel-news/article-915878",
@@ -22,6 +34,18 @@
     "seccion": "israel",
     "publicado": "2026-11-24T04:43:53.000Z",
     "detectado": "2026-11-24T04:50:23.903Z"
+  },
+  {
+    "id": "4eb9cf94d57e",
+    "titulo": "Russia: We Attacked Power Station and Cargo Ship in and Near Ukraine",
+    "enlace": "https://www.ynetnews.com/article/r82ntsfov",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-24T04:38:06.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
   },
   {
     "id": "db00deeaff6d",
@@ -130,6 +154,18 @@
     "seccion": "israel",
     "publicado": "2026-11-24T04:00:14.000Z",
     "detectado": "2026-11-24T04:50:23.903Z"
+  },
+  {
+    "id": "70a6c1d722d9",
+    "titulo": "Senior senator: 'Peace Council is right, Israel must meet its commitments'",
+    "enlace": "https://www.ynetnews.com/article/ovr5bgf00",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-24T03:49:38.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
   },
   {
     "id": "0fc300d21741",
@@ -768,6 +804,18 @@
     "detectado": "2026-11-24T04:50:23.903Z"
   },
   {
+    "id": "18100c4e930b",
+    "titulo": "Mayoría de los alemanes rechaza enviar armas a Ucrania, según encuesta",
+    "enlace": "https://www.dw.com/es/mayor%C3%ADa-de-los-alemanes-rechaza-enviar-armas-a-ucrania-seg%C3%BAn-encuesta/a-80026623",
+    "resumen": "Cada vez más alemanes creen que su país debería mantener un perfil bajo en política exterior. La mayoría rechaza la ayuda militar a Ucrania y apuesta por la neutralidad en el conflicto entre EE. UU. y China.",
+    "fuente": "dw-es",
+    "fuenteNombre": "DW Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-23T23:01:00.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
+  },
+  {
     "id": "f0bce1243cf3",
     "titulo": "Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania",
     "enlace": "https://www.bbc.com/mundo/articles/cry86dl7jjw5o",
@@ -1186,6 +1234,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-23T21:15:33.000Z",
     "detectado": "2026-11-24T04:50:23.903Z"
+  },
+  {
+    "id": "e98afdf5c136",
+    "titulo": "Burnham insta al Parlamento a que deje de mirar al pasado con el Brexit",
+    "enlace": "https://elpais.com/internacional/2026-11-23/burnham-insta-al-parlamento-a-que-deje-de-mirar-al-pasado-con-el-brexit.html",
+    "resumen": "El primer ministro defiende los acuerdos con Bruselas por su impulso económico de 17.000 millones hasta 2040, mientras la oposición le acusa de convertir al Reino Unido en un mero “receptor de leyes” europeas",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-23T21:15:32.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
   },
   {
     "id": "f896cb5495f2",
@@ -2088,6 +2148,18 @@
     "detectado": "2026-11-23T20:15:59.184Z"
   },
   {
+    "id": "f52f31404390",
+    "titulo": "361 militares operaron el ataque al búnker del Chapo Isidro",
+    "enlace": "https://elpais.com/mexico/2026-11-23/361-militares-operaron-el-ataque-al-bunker-del-chapo-isidro.html",
+    "resumen": "El Ejército mexicano planeó durante tres meses el operativo para detener al capo sinaloense. La dependencia se apoyó en drones de EE UU para la captura, que dejó la muerte de 20 personas",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-23T18:17:10.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
+  },
+  {
     "id": "6ce2d759ebf5",
     "titulo": "Regev approves flydubai’s return to Israel, flights expected to resume within two weeks",
     "enlace": "https://www.jpost.com/israel-news/article-915864",
@@ -2554,6 +2626,18 @@
     "seccion": "israel",
     "publicado": "2026-11-23T16:57:32.000Z",
     "detectado": "2026-11-23T20:15:59.184Z"
+  },
+  {
+    "id": "5805a13035f6",
+    "titulo": "Cúcuta se convierte en la primera capital departamental de Colombia atacada con drones",
+    "enlace": "https://elpais.com/america-colombia/2026-11-23/cucuta-se-convierte-en-la-primera-capital-departamental-de-colombia-atacada-con-drones.html",
+    "resumen": "El ataque al Comando de la Policía estremece a la ciudad fronteriza con Venezuela, cerca de la convulsa región del Catatumbo",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-23T16:53:56.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
   },
   {
     "id": "0ac9934dd975",
@@ -3922,6 +4006,18 @@
     "seccion": "israel",
     "publicado": "2026-11-23T13:03:26.000Z",
     "detectado": "2026-11-23T20:15:59.184Z"
+  },
+  {
+    "id": "0e2f0963bec3",
+    "titulo": "Twenty Gaza students due to leave for Ireland after winning visa battle",
+    "enlace": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+    "resumen": "Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territory Twenty students from Gaza are to travel to Ireland to take up scholarships after winning a battle for visas that undercut the Irish government’s…",
+    "fuente": "guardian-world",
+    "fuenteNombre": "The Guardian · World",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-23T13:03:14.000Z",
+    "detectado": "2026-11-24T17:47:50.017Z"
   },
   {
     "id": "8d6247fa3990",
