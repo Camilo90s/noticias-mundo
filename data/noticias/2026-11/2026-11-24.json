@@ -1,5 +1,269 @@
 [
   {
+    "id": "21c81d4cd4e4",
+    "titulo": "Saudi-led coalition strikes Yemen, Houthis threaten to attack Saudi ports",
+    "enlace": "https://www.ynetnews.com/article/jncf64ytd",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:55:05.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "26542f22b77e",
+    "titulo": "\"Le digo a mi hijo que son solo fuegos artificiales\": cómo es vivir en una ciudad de Yemen sitiada por los rebeldes hutíes",
+    "enlace": "https://www.bbc.com/mundo/articles/cx5y1mzvgpe8o",
+    "resumen": "Taiz, la tercera ciudad más grande de Yemen, lleva semanas aislada del mundo, bajo asedio de los hutíes. La BBC habló con personas atrapadas allí.",
+    "fuente": "bbc-mundo",
+    "fuenteNombre": "BBC Mundo",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:47:20.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "0f24bb03b7fd",
+    "titulo": "India news: US prepares new tariffs after trade probe",
+    "enlace": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306",
+    "resumen": "The United States is reportedly readying fresh tariffs on India and 15 other economies under a trade probe. Also, a woman was allegedly gangraped by her colleagues in the national capital. Follow live.",
+    "fuente": "dw-en",
+    "fuenteNombre": "DW News",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:44:00.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "a655014fe19f",
+    "titulo": "Mississippi: 4 adults and 2 children killed in small plane crash in Gulf of Mexico",
+    "enlace": "https://www.ynetnews.com/article/m9exwrd1b",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:41:42.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "8d1c4af497d1",
+    "titulo": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
+    "enlace": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348",
+    "resumen": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injuries. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
+    "fuente": "dw-en",
+    "fuenteNombre": "DW News",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:41:00.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "db9c3311da86",
+    "titulo": "Police: Stun Grenade Thrown Overnight in Kfar Saba, No Injuries",
+    "enlace": "https://www.ynetnews.com/article/0hm7oqvav",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:32:43.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "14f557eada33",
+    "titulo": "Israel destruye las condiciones para concebir nuevas vidas en Gaza: “Lo he perdido todo, hasta la esperanza”",
+    "enlace": "https://elpais.com/internacional/2026-11-25/israel-destruye-las-condiciones-para-concebir-nuevas-vidas-en-gaza-lo-he-perdido-todo-hasta-la-esperanza.html",
+    "resumen": "Amnistía Internacional documenta en un informe el daño desproporcionado que la guerra ha infligido a las mujeres y niñas, que representan más del 30% de las víctimas mortales",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "a0e2c388dcac",
+    "titulo": "Steffen Krach, líder del SPD en Berlín: “No creo que nacionalizar viviendas baje los alquileres, al contrario”",
+    "enlace": "https://elpais.com/internacional/2026-11-25/steffen-krach-lider-del-spd-en-berlin-no-creo-que-nacionalizar-viviendas-baje-los-alquileres-al-contrario.html",
+    "resumen": "El candidato socialdemócrata formará parte de una coalición de gobierno en la capital de Alemania convencido de que esa propuesta de sus socios de Die Linke fracasará",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "ef07b0c5930f",
+    "titulo": "Lázaro Cárdenas Batel: “Sin haber llegado al poder, el legado de mi padre es mayor que el de muchos presidentes”",
+    "enlace": "https://elpais.com/internacional/2026-11-25/lazaro-cardenas-batel-sin-haber-llegado-al-poder-el-legado-de-mi-padre-es-mayor-que-el-de-muchos-presidentes.html",
+    "resumen": "El jefe de la Oficina de la Presidencia de México, nieto del expresidente que abrió las puertas a miles de refugiados e hijo de uno de los grandes referentes de la izquierda, dice que Sheinbaum y López Obrador tienen distintos estilos de gobernar pero la…",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "1b41ffd7578d",
+    "titulo": "Un estudiante palestino, encarcelado sin cargos tras ser arrestado en su residencia universitaria de Jerusalén",
+    "enlace": "https://elpais.com/internacional/2026-11-25/un-estudiante-palestino-encarcelado-sin-cargos-tras-ser-arrestado-en-su-residencia-universitaria-de-jerusalen.html",
+    "resumen": "El caso de Mahdi Tunsi, conocido activista por la coexistencia entre judíos y árabes, aviva la polémica tras más de dos semanas de detención administrativa",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "c7be357cf2ef",
+    "titulo": "Italia aguarda los escritos póstumos de De Gennaro para saber si arrojan luz sobre los secretos de la Mafia",
+    "enlace": "https://elpais.com/internacional/2026-11-25/italia-aguarda-los-escritos-postumos-de-de-gennaro-para-saber-si-arrojan-luz-sobre-los-secretos-de-la-mafia.html",
+    "resumen": "El expolicía dejó un texto defendiendo su inocencia antes de suicidarse, tras ser investigado en la trama para ocultar la verdad sobre el asesinato del juez Borsellino en 1992",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "6e2e62003a57",
+    "titulo": "Libia se convierte en el nuevo frente entre Ucrania y Rusia",
+    "enlace": "https://elpais.com/internacional/2026-11-25/libia-se-convierte-en-el-nuevo-frente-entre-ucrania-y-rusia.html",
+    "resumen": "Moscú se alía con Egipto y Emiratos Árabes Unidos frente a Turquía y Qatar en la pugna por el control de un país estratégico y rico en hidrocarburos",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:30:01.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "15a0ddbd4790",
+    "titulo": "Liberman: 'There's progress, by next week we can present a government with a Jewish majority'",
+    "enlace": "https://www.ynetnews.com/article/a4yqvz6h4",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:27:42.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "ab6c6c6a2928",
+    "titulo": "Un jurado en EE.UU. declara culpable a la empresa Huawei por robo de secretos industriales",
+    "enlace": "https://www.dw.com/es/un-jurado-en-ee-uu-declara-culpable-a-la-empresa-huawei-por-robo-de-secretos-industriales/a-80042319",
+    "resumen": "La pena contra Huawei deberá decidirse en septiembre de 2027, pero la empresa afirmó que emprenderá todas las acciones legales para defender sus derechos.",
+    "fuente": "dw-es",
+    "fuenteNombre": "DW Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T04:24:00.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "443128728ce5",
+    "titulo": "Pakistanis erupt in joy as Muhammad Zeeshan Ali reaches orbit",
+    "enlace": "https://www.israelhayom.com/2026/11/25/pakistan-astronaut-muhammad-zeeshan-ali-orbit/",
+    "resumen": "Pakistan celebrated a historic milestone on Wednesday as Air Force pilot Muhammad Zeeshan Ali launched aboard China's Shenzhou-24 spacecraft, becoming the first foreign astronaut to board the Tiangong space station, according to AFP. Hundreds gathered before…",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:05:17.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "45815bedfc8f",
+    "titulo": "Eisenkot is talking unity with Likud. Arab parties may get him into office",
+    "enlace": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/eisenkot-allies-doubt-a-government-with-likud-the-democrats-are-done-waiting/000001a2-0f74-d9a3-abea-7f76cd310000",
+    "resumen": "Eisenkot is still negotiating with Likud, but his best chance of replacing Netanyahu may be a minority government that Arab parties could help pass by voting for it or abstaining",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:02:47.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "e007f1c5a627",
+    "titulo": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
+    "enlace": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
+    "resumen": "Amnesty International on Wednesday urged the International Criminal Court to investigate whether Israeli officials committed genocide in Gaza, citing measures it says have prevented births and severely harmed women's reproductive health. The rights group said…",
+    "fuente": "france24-medio-oriente",
+    "fuenteNombre": "France 24 · Medio Oriente",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T04:01:48.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "103c74d35e86",
+    "titulo": "Iowa countdown: US army begins detonation process",
+    "enlace": "https://www.israelhayom.com/2026/11/25/iowa-army-plant-lead-detonation-plan/",
+    "resumen": "Ahead of a scheduled Wednesday morning detonation at the Iowa Army Ammunition Plant in Middletown, US military and federal officials detailed containment measures to limit airborne lead dust, CNN reported. More than 60 barrels of unstable lead azide will be…",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:57:11.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "e96817cf8c9d",
+    "titulo": "Iran claims: Two oil tankers hit by naval mines in Strait of Hormuz",
+    "enlace": "https://www.ynetnews.com/article/yuythehi2",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:55:11.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "8a1e89703672",
+    "titulo": "El grupo chino Huawei es declarado culpable en EE. UU. de robar secretos comerciales",
+    "enlace": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261125-el-grupo-chino-huawei-es-declarado-culpable-de-robar-secretos-comerciales-en-estados-unidos",
+    "resumen": "Un jurado federal de Nueva York declaró culpable el martes 24 de noviembre al gigante tecnológico chino Huawei de fraude bancario y robo de secretos comerciales. La empresa fue acusada de intentar reclutar empleados de empresas de telecomunicaciones…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T03:40:13.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "593b31b01e75",
+    "titulo": "British swimmer braves Strait of Hormuz to spotlight environmental toll of Iran war",
+    "enlace": "https://www.israelhayom.com/2026/11/25/lewis-pugh-strait-hormuz-swim-environment/",
+    "resumen": "British endurance swimmer Lewis Pugh, a UN patron of the oceans, completed a three-day swim in a 9.3-mile (15km) section of the strait of Hormuz to spotlight the environmental cost of the Iran war. He witnessed attacks on commercial shipping, explosions in…",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:30:30.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "d80469afc68a",
+    "titulo": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+    "enlace": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
+    "resumen": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T03:28:37.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "0553b991091b",
     "titulo": "Israel Police ramps up enforcement against intersection blocking in Tel Aviv",
     "enlace": "https://www.jpost.com/israel-news/article-916034",
@@ -12,6 +276,66 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "5becb1913042",
+    "titulo": "Trump: 'We have funding for war with Iran until end of January, regime change is not my goal'",
+    "enlace": "https://www.ynetnews.com/article/bx4q3jrdy",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:16:45.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "9a1074df31ee",
+    "titulo": "Forecast: Slight Drop in Temperatures, Light Local Rain in North and Along Coast",
+    "enlace": "https://www.ynetnews.com/article/f8gz2v880",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:15:12.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "594cb5848507",
+    "titulo": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "enlace": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
+    "resumen": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T03:15:12.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "017d2a8c63eb",
+    "titulo": "Consultoras apuntan a una recesión técnica en Argentina tras dos trimestres seguidos de contracción",
+    "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261125-consultoras-apuntan-a-una-recesi%C3%B3n-t%C3%A9cnica-en-argentina-tras-dos-trimestres-seguidos-de-contracci%C3%B3n",
+    "resumen": "La economía argentina cayó 1,8% en el tercer trimestre de 2026, según estimaciones privadas. El deterioro de la actividad se produce en medio del ajuste fiscal de Javier Milei, el retroceso del consumo, los despidos y un creciente endeudamiento de los hogares.",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T03:13:38.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "8b18c8ce08a2",
+    "titulo": "Chinese tech giant Huawei convicted in US of bank fraud, violating Iran sanctions",
+    "enlace": "https://www.israelhayom.com/2026/11/25/chinese-tech-giant-huawei-convicted-in-us-of-bank-fraud-violating-iran-sanctions/",
+    "resumen": "Chinese technology giant Huawei was convicted Tuesday in federal court in New York of multiple offenses, including bank fraud, sanctions violations and conspiracy to steal trade secrets from American companies. A jury found the company guilty on 10 of 12…",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:05:03.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "d55e28c976d9",
     "titulo": "Rehovot demands urgent legal reform as Iranian missile victims face reconstruction delays",
     "enlace": "https://www.jpost.com/israel-news/article-916032",
@@ -22,6 +346,42 @@
     "seccion": "israel",
     "publicado": "2026-11-25T03:01:48.000Z",
     "detectado": "2026-11-25T02:30:54.949Z"
+  },
+  {
+    "id": "94c53d69e011",
+    "titulo": "Delta adds destination, doubles NYC-Tel Aviv flights",
+    "enlace": "https://www.israelhayom.com/2026/11/25/delta-air-lines-atlanta-tel-aviv-flights-second-daily-new-york-flight/",
+    "resumen": "Delta Air Lines will resume direct Atlanta to Tel Aviv flights on Dec. 19 with three weekly flights, and will add a second daily New York flight starting Nov. 29 to meet growing holiday-season demand.",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T03:00:38.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "1bbabe55d570",
+    "titulo": "The Russian army’s secret death toll – podcast",
+    "enlace": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+    "resumen": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its…",
+    "fuente": "guardian-world",
+    "fuenteNombre": "The Guardian · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T03:00:03.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "9d97f387b70b",
+    "titulo": "Kilmar Ábrego García, símbolo de la resistencia migrante ante Trump, va rumbo a España",
+    "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261125-kilmar-%C3%A1brego-garc%C3%ADa-s%C3%ADmbolo-de-la-resistencia-migrante-ante-trump-va-rumbo-a-espa%C3%B1a",
+    "resumen": "El migrante salvadoreño Kilmar Ábrego García se convirtió en el centro de una larga polémica que incluso llegó a la Corte Suprema, luego de su deportación por un “error administrativo” que lo llevó a ser internado en la megacárcel del CECOT, a pesar de los…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:42:22.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "fddb237da224",
@@ -48,6 +408,54 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "05ab46d09caa",
+    "titulo": "Un gran jurado en EE.UU. acusa a Thomas Markle, padre de Meghan Markle, de posesión de pornografía infantil",
+    "enlace": "https://www.dw.com/es/un-gran-jurado-en-ee-uu-acusa-a-thomas-markle-padre-de-meghan-markle-de-posesi%C3%B3n-de-pornograf%C3%ADa-infantil/a-80042280",
+    "resumen": "Los fiscales del caso aseguran que Thomas Markle tenía negativos de fotografías de abusos sexuales infantiles, así como fotos y libros en los que aparece desnudo con menores.",
+    "fuente": "dw-es",
+    "fuenteNombre": "DW Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:34:00.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "76342dbe3aeb",
+    "titulo": "Camilo González: \"Mucha cinematografía, pero no una estrategia contra la violencia en Colombia\"",
+    "enlace": "https://www.france24.com/es/video/20261125-camilo-gonz%C3%A1lez-mucha-cinematograf%C3%ADa-pero-no-una-estrategia-contra-la-violencia-en-colombia",
+    "resumen": "Colombia atraviesa una nueva escalada de violencia marcada por el aumento de atentados en centros urbanos, incluidos ataques recientes en ciudades como Villavicencio y Cúcuta. Camilo González Posso, presidente del Instituto de Estudios para el Desarrollo y la…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:24:22.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "d8c9d4e4b3fd",
+    "titulo": "Venezuela: sindicatos y empleados públicos salen a las calles para exigir salarios dignos",
+    "enlace": "https://www.france24.com/es/video/20261125-venezuela-sindicatos-y-empleados-p%C3%BAblicos-salen-a-las-calles-para-exigir-salarios-dignos",
+    "resumen": "Las protestas de empleados públicos vuelven a poner el foco sobre la crisis salarial en Venezuela. Cientos de maestros y trabajadores de empresas estatales se movilizaron en Caracas para exigir mejores sueldos y pensiones, en medio de denuncias por ingresos…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:23:27.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "da717c54896f",
+    "titulo": "La salud de Cuba al borde del colapso: aumentan las muertes y faltan medicamentos",
+    "enlace": "https://www.france24.com/es/video/20261125-la-salud-de-cuba-al-borde-del-colapso-aumentan-las-muertes-y-faltan-medicamentos",
+    "resumen": "El sistema de salud de Cuba enfrenta una profunda crisis marcada por el aumento de la mortalidad infantil, la reducción de la esperanza de vida y la escasez de medicamentos, insumos y personal médico. Más de 100.000 personas esperan una cirugía, incluidos…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:22:13.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "26c423da2692",
     "titulo": "Rescue crews search for six people after plane crash off Mississippi coast",
     "enlace": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
@@ -72,6 +480,30 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "3d541d2bff84",
+    "titulo": "Dinorah Figuera, negociadora de la transición con el chavismo: “Esto no es una mesa romántica”",
+    "enlace": "https://elpais.com/america/2026-11-25/dinorah-figuera-negociadora-de-la-transicion-con-el-chavismo-esto-no-es-una-mesa-romantica.html",
+    "resumen": "La opositora gestiona las expectativas democráticas de millones de venezolanos en la mesa de diálogo, tutelada por Estados Unidos",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T02:13:37.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "2ab4d2430d57",
+    "titulo": "Man Critically Injured in Vehicle Accident Near Be'er Sheva",
+    "enlace": "https://www.ynetnews.com/article/p2ubp2ezk",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-25T02:07:14.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "ddf28d9ac5a4",
     "titulo": "“Necesitamos seis años más”: Bukele sienta las bases para una larga permanencia en el poder en El Salvador",
     "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261125-necesitamos-seis-a%C3%B1os-m%C3%A1s-bukele-sienta-las-bases-para-una-larga-permanencia-en-el-poder-en-el-salvador",
@@ -94,6 +526,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-25T02:01:00.000Z",
     "detectado": "2026-11-25T02:30:54.949Z"
+  },
+  {
+    "id": "cc78a4c16ee7",
+    "titulo": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+    "enlace": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
+    "resumen": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T01:51:43.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "ee752877c410",
@@ -130,6 +574,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-25T01:42:07.000Z",
     "detectado": "2026-11-25T02:30:54.949Z"
+  },
+  {
+    "id": "f0d0725f4d39",
+    "titulo": "Thomas Markle charged in US for possessing child sex abuse images",
+    "enlace": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+    "resumen": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T01:40:42.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "eebfd2141a80",
@@ -228,6 +684,42 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "70f7e787cc7f",
+    "titulo": "Trump's rescue of Nvidia's Huang brings political risks",
+    "enlace": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+    "resumen": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T01:03:05.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "f64f49d93334",
+    "titulo": "The rising cost of putting food on the table in India",
+    "enlace": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+    "resumen": "India's food inflation is broadening, squeezing household budgets.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T01:02:13.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "b4cc153ea2b5",
+    "titulo": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+    "enlace": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
+    "resumen": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T01:00:36.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "bfa6850a3160",
     "titulo": "Middle-aged women in England least likely to successfully quit smoking, study finds",
     "enlace": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
@@ -240,6 +732,18 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "9a5167d2248a",
+    "titulo": "Clashing political visions reflect a divided Spain ahead of election",
+    "enlace": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
+    "resumen": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T00:58:34.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "974073aae12c",
     "titulo": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
     "enlace": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
@@ -250,6 +754,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-25T00:56:48.000Z",
     "detectado": "2026-11-25T02:30:54.949Z"
+  },
+  {
+    "id": "d5b9e6a0156d",
+    "titulo": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "enlace": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o",
+    "resumen": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-25T00:54:13.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "aec5aa079c2b",
@@ -612,6 +1128,30 @@
     "detectado": "2026-11-25T02:30:54.949Z"
   },
   {
+    "id": "cd5e4005f2a4",
+    "titulo": "Is China behind a wave of AI fake videos targeting Taiwan?",
+    "enlace": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+    "resumen": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-24T23:05:11.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "c77247aa7bb0",
+    "titulo": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+    "enlace": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o",
+    "resumen": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-24T23:03:59.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
     "id": "6c3fa969bd00",
     "titulo": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
     "enlace": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain",
@@ -742,6 +1282,30 @@
     "seccion": "mundo",
     "publicado": "2026-11-24T22:08:28.000Z",
     "detectado": "2026-11-25T02:30:54.949Z"
+  },
+  {
+    "id": "9cb719eb38a9",
+    "titulo": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+    "enlace": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o",
+    "resumen": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+    "fuente": "bbc-world",
+    "fuenteNombre": "BBC News · World",
+    "idioma": "en",
+    "seccion": "mundo",
+    "publicado": "2026-11-24T22:07:30.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
+  },
+  {
+    "id": "8121d60b40b5",
+    "titulo": "Former Hamas hostage Amit Soussana to be nominated for Nobel Peace Prize",
+    "enlace": "https://www.israelhayom.com/2026/11/25/former-hamas-hostage-amit-soussana-to-be-nominated-for-nobel-peace-prize/",
+    "resumen": "World WIZO President Anat Vidor and Israeli Minister Gila Gamliel are set to announce Wednesday an international initiative to nominate former Hamas hostage Amit Soussana for the 2027 Nobel Peace Prize, with Soussana's consent. Soussana was abducted from her…",
+    "fuente": "israel-hayom",
+    "fuenteNombre": "Israel Hayom",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-24T22:05:40.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "d0b6190a539c",
@@ -3802,6 +4366,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-24T09:30:00.000Z",
     "detectado": "2026-11-24T17:47:50.017Z"
+  },
+  {
+    "id": "2a140ed12eb9",
+    "titulo": "“TrumpCare”: la apuesta de Abdul El-Sayed que apela a la vanidad del presidente para que firme un Medicare para todos",
+    "enlace": "https://elpais.com/us/2026-11-24/trumpcare-la-apuesta-de-abdul-el-sayed-que-apela-a-la-vanidad-del-presidente-para-que-firme-un-medicare-para-todos.html",
+    "resumen": "“No me importa cómo se llame el programa. Me importa que todos los estadounidenses tengan garantizado el acceso a la salud”, ha asegurado el senador electo por Michigan",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-24T09:30:00.000Z",
+    "detectado": "2026-11-25T14:24:44.329Z"
   },
   {
     "id": "2d383a24a565",
