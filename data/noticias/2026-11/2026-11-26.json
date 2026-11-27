@@ -1,5 +1,29 @@
 [
   {
+    "id": "fdeaa355132d",
+    "titulo": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
+    "enlace": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o",
+    "resumen": "Analizamos, de cara a las elecciones generales del 29 de noviembre, por qué el crecimiento del PIB y el récord de empleo en España conviven con salarios que han perdido poder adquisitivo y una de las tasas de pobreza infantil más altas de Europa.",
+    "fuente": "bbc-mundo",
+    "fuenteNombre": "BBC Mundo",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-27T04:53:27.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "b649e72deaa6",
+    "titulo": "UN Special Rapporteur for Palestine Denied Entry to Costa Rica: 'Links to Terrorist Activities'",
+    "enlace": "https://www.ynetnews.com/article/qtrdbp15m",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:46:14.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
     "id": "d5b206e674b4",
     "titulo": "Hind Rajab Foundation files complaint against haredi IDF soldiers visiting Barcelona",
     "enlace": "https://www.jpost.com/israel-news/article-916306",
@@ -10,6 +34,90 @@
     "seccion": "israel",
     "publicado": "2026-11-27T04:41:03.000Z",
     "detectado": "2026-11-27T04:16:02.365Z"
+  },
+  {
+    "id": "483fe79ac02c",
+    "titulo": "Who won the election? Israel's real test is only beginning",
+    "enlace": "https://www.haaretz.com/opinion/2026-11-27/ty-article-opinion/.premium/who-won-the-election-israels-real-test-is-only-beginning/000001a2-1932-ded0-a5b6-dd3276450000",
+    "resumen": "Netanyahu's removal is only the first step. Eisenkot's government will have to dismantle his legacy, restore the rule of law and steer Israel onto a new course. Only then will it be clear who won the election",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:38:12.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "5c961dc550c2",
+    "titulo": "Trump pulled the plug on U.S. aid to Israel – but the Israeli right laid the groundwork",
+    "enlace": "https://www.haaretz.com/israel-news/israel-security/2026-11-27/ty-article-magazine/.highlight/trump-axed-aid-to-israel-but-the-israeli-right-laid-the-groundwork/000001a2-1793-d809-adef-7fff73a10000",
+    "resumen": "Trump's decision to end U.S. military aid to Israel was cast as an isolationist move, but Israeli right-wing figures had long been advocating for Israel to 'wean itself off' American assistance",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:36:28.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "2b20c2ef407d",
+    "titulo": "Gambia celebra unas reñidas elecciones en pleno éxodo de cayucos hacia Canarias",
+    "enlace": "https://elpais.com/internacional/2026-11-27/gambia-celebra-unas-renidas-elecciones-en-pleno-exodo-de-cayucos-hacia-canarias.html",
+    "resumen": "El presidente Adama Barrow aspira a un tercer mandato, pero Talib Bensouda, su rival emergente, seduce a jóvenes sin empleo que no ven más salida que la emigración",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-27T04:30:01.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "e226f80a631b",
+    "titulo": "Death of young woman shot in Be'er Sheva confirmed",
+    "enlace": "https://www.ynetnews.com/article/ffmowi61r",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:17:53.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "eed4254f43ec",
+    "titulo": "Who will guard Lebanon's border after the UN peacekeepers leave?",
+    "enlace": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-27/ty-article/.premium/who-will-guard-lebanons-border-after-unifil-leaves/000001a2-190c-d58f-afea-5b2f02e80000",
+    "resumen": "As UNIFIL prepares to withdraw, Lebanon struggles to curb Hezbollah's power while foreign nations compete to shape the border's future. Israel risks losing influence over a process that will directly affect its northern border",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:14:52.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "270e8f8bdbcb",
+    "titulo": "Trump: I spoke with Netanyahu. If we strike Iran - we'll hit the nuclear facilities",
+    "enlace": "https://www.ynetnews.com/article/s2p39feuy",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:11:30.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "b5bc4a8a3386",
+    "titulo": "Bennett is the main obstacle to an Eisenkot-led government",
+    "enlace": "https://www.haaretz.com/israel-news/israel-politics/2026-11-27/ty-article/.premium/bennett-is-the-main-obstacle-to-an-eisenkot-led-government/000001a2-19fb-d22a-a1bb-1dfbfd690000",
+    "resumen": "Netanyahu is leading Israel to a diplomatic October 7, and potentially a military one as well. Bennett could still derail the effort to replace him",
+    "fuente": "haaretz",
+    "fuenteNombre": "Haaretz",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T04:11:15.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
   },
   {
     "id": "d9138913bdd2",
@@ -48,6 +156,18 @@
     "detectado": "2026-11-27T04:16:02.365Z"
   },
   {
+    "id": "0e94ef4af5ed",
+    "titulo": "¿Quiebre en la relación Canadá-monarquía? Diputados de Quebec se niegan a jurar lealtad a Carlos III",
+    "enlace": "https://www.france24.com/es/video/20261127-quiebre-en-la-relaci%C3%B3n-canad%C3%A1-monarqu%C3%ADa-diputados-de-quebec-se-niegan-a-jurar-lealtad-a-carlos-iii",
+    "resumen": "Los recién posicionados diputados del partido independentista de Quebec y su primer ministro anunciaron que en la próxima legislatura no jurarán lealtad al rey Carlos III, quien sigue siendo el mandatario de los canadienses, pese a una orden del Tribunal…",
+    "fuente": "france24-es",
+    "fuenteNombre": "France 24 Español",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-27T03:47:28.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
     "id": "a2d65f8c7431",
     "titulo": "Los candidatos a la Presidencia del Gobierno de España se enfrentan en último debate antes de las elecciones",
     "enlace": "https://www.dw.com/es/los-candidatos-a-la-presidencia-del-gobierno-de-espa%C3%B1a-se-enfrentan-en-%C3%BAltimo-debate-antes-de-las-elecciones/a-80070402",
@@ -58,6 +178,18 @@
     "seccion": "mundo",
     "publicado": "2026-11-27T03:46:00.000Z",
     "detectado": "2026-11-27T04:16:02.365Z"
+  },
+  {
+    "id": "24ced0ce140f",
+    "titulo": "Australia Imposes Sanctions on Those Responsible for Antisemitic Incidents Directed by Iran",
+    "enlace": "https://www.ynetnews.com/article/b8d8s1juz",
+    "resumen": "",
+    "fuente": "ynetnews",
+    "fuenteNombre": "Ynetnews",
+    "idioma": "en",
+    "seccion": "israel",
+    "publicado": "2026-11-27T03:44:20.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
   },
   {
     "id": "b7bd9d908055",
@@ -394,6 +526,30 @@
     "seccion": "israel",
     "publicado": "2026-11-27T00:19:09.000Z",
     "detectado": "2026-11-27T04:16:02.365Z"
+  },
+  {
+    "id": "21d22ed4ec55",
+    "titulo": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
+    "enlace": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
+    "resumen": "El presidente de Bradesco acepta la cartera y se espera que realice un ajuste fiscal",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-27T00:14:32.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
+  },
+  {
+    "id": "2cbfafbc61a9",
+    "titulo": "Venezuela derogará la ley que castiga a quienes pidieron sanciones contra el país",
+    "enlace": "https://elpais.com/america/2026-11-27/venezuela-derogara-la-ley-que-castiga-a-quienes-pidieron-sanciones-contra-el-pais.html",
+    "resumen": "Jorge Rodríguez, presidente de la Asamblea Nacional, mantiene su negativa a acabar con la ley contra el odio",
+    "fuente": "el-pais",
+    "fuenteNombre": "El País · Internacional",
+    "idioma": "es",
+    "seccion": "mundo",
+    "publicado": "2026-11-27T00:14:09.000Z",
+    "detectado": "2026-11-27T13:58:33.868Z"
   },
   {
     "id": "4e33f70bbfa5",
